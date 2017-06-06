@@ -1,0 +1,73 @@
+@font-face {
+			font-family: "RobotoRegular";
+			src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+			src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"),
+			url("../fonts/RobotoRegular/RobotoRegular.svg#RobotoRegular") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "RobotoLight";
+			src: url("../fonts/RobotoLight/RobotoLight.eot");
+			src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+			url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype"),
+			url("../fonts/RobotoLight/RobotoLight.svg#RobotoLight") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+	@font-face {
+			font-family: "RobotoLightItalic";
+			src: url("../fonts/RobotoLightItalic/RobotoLightItalic.eot");
+			src: url("../fonts/RobotoLightItalic/RobotoLightItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/RobotoLightItalic/RobotoLightItalic.woff") format("woff"),
+			url("../fonts/RobotoLightItalic/RobotoLightItalic.ttf") format("truetype"),
+			url("../fonts/RobotoLightItalic/RobotoLightItalic.svg#RobotoLightItalic") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "RobotoMedium";
+			src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+			src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"),
+			url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype"),
+			url("../fonts/RobotoMedium/RobotoMedium.svg#RobotoMedium") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+	@font-face {
+			font-family: "RobotoMediumItalic";
+			src: url("../fonts/RobotoMediumItalic/RobotoMediumItalic.eot");
+			src: url("../fonts/RobotoMediumItalic/RobotoMediumItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/RobotoMediumItalic/RobotoMediumItalic.woff") format("woff"),
+			url("../fonts/RobotoMediumItalic/RobotoMediumItalic.ttf") format("truetype"),
+			url("../fonts/RobotoMediumItalic/RobotoMediumItalic.svg#RobotoMediumItalic") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "RobotoBold";
+			src: url("../fonts/RobotoBold/RobotoBold.eot");
+			src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/RobotoBold/RobotoBold.woff") format("woff"),
+			url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"),
+			url("../fonts/RobotoBold/RobotoBold.svg#RobotoBold") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+	@font-face {
+			font-family: "BariolRegular";
+			src: url("../fonts/BariolRegular/BariolRegular.eot");
+			src: url("../fonts/BariolRegular/BariolRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/BariolRegular/BariolRegular.woff") format("woff"),
+			url("../fonts/BariolRegular/BariolRegular.ttf") format("truetype"),
+			url("../fonts/BariolRegular/BariolRegular.svg#BariolRegular") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
